@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "odd-number": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

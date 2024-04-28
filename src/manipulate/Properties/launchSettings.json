@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "manipulate": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

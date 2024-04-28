@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "smily": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
